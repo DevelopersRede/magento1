@@ -47,9 +47,9 @@ $table->addColumn(
     ), 'Last 4 digits of the credit card.'
     )
     ->addColumn(
-        'card_bin', Varien_Db_Ddl_Table::TYPE_VARCHAR, 4, array(
+        'card_bin', Varien_Db_Ddl_Table::TYPE_VARCHAR, 6, array(
         'nullable' => true
-    ), 'Last 4 digits of the credit card.'
+    ), 'Last 6 digits of the credit card.'
     )
     ->addColumn(
         'cardholder_name', Varien_Db_Ddl_Table::TYPE_VARCHAR, 100, array(
