@@ -1,6 +1,6 @@
 # Importante
 
-Utilize sempre a última release para a instalação da versão mais recente do módulo
+Também é possível fazer o download da [última release](https://github.com/DevelopersRede/magento1/releases/latest/download/magento.zip). Essa versão já contém as dependênias, então basta descompactar o pacote e enviá-lo para o servidor da plataforma.
 
 https://github.com/DevelopersRede/magento1/releases
 
