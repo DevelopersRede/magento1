@@ -1,3 +1,9 @@
+# Importante
+
+Utilize sempre a última release para a instalação da versão mais recente do módulo
+
+https://github.com/DevelopersRede/magento1/releases
+
 # Módulo Magento 1.x
 
 Esse módulo é suportado pelas versões 1.7 até 1.9 da plataforma Magento, desde que seguido os requisitos abaixo:
