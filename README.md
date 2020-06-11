@@ -2,8 +2,6 @@
 
 Também é possível fazer o download da [última release](https://github.com/DevelopersRede/magento1/releases/latest/download/magento.zip). Essa versão já contém as dependênias, então basta descompactar o pacote e enviá-lo para o servidor da plataforma.
 
-https://github.com/DevelopersRede/magento1/releases
-
 # Módulo Magento 1.x
 
 Esse módulo é suportado pelas versões 1.7 até 1.9 da plataforma Magento, desde que seguido os requisitos abaixo:
