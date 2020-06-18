@@ -61,16 +61,16 @@ Por questão de boas práticas realize o backup da loja e banco de dados antes d
 
 Antes de instalar o módulo desabilite a opção de compilação no Backoffice da plataforma
 
-•	Faça login no painel administrativo
-•	Navegue até System > Tools > Compilation;
-•	Se o compilador tiver habilitado, clique em desabilitar.
+* Faça login no painel administrativo
+* Navegue até _System > Tools > Compilation_;
+* Se o compilador tiver habilitado, clique em desabilitar.
 
 **Etapa 3 - Instalando o módulo e.Rede**
 
 Após realizar o download do arquivo siga as seguintes instruções:
 
 * Descompacte o conteúdo do arquivo dentro da raiz da instalação da loja Magento, mesclando com os arquivos já existentes;
-* Na área administrativa da loja vá até System > cache Management e limpe o cache da loja para que a opção e.Rede seja exibida na barra de menu;
+* Na área administrativa da loja vá até _System > cache Management_ e limpe o cache da loja para que a opção e.Rede seja exibida na barra de menu;
 
 **Etapa 4 – Configurando o módulo**
 
