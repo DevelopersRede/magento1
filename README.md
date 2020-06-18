@@ -26,7 +26,7 @@ Tanto o Apache httpd quanto o Nginx são compatíveis, desde observadas as segui
 
 ### PHP
 
-* PHP 5.6.x
+* PHP 5.6.ou superior
 
 É válido ressaltar que a versão 5.6 do PHP receberá suporte de segurança apenas até Dezembro de 2018; após essa data,
 ela será completamente descontinuada. Para mais informações, o manual do PHP possui um informativo sobre as [versões suportadas](http://php.net/supported-versions.php).
