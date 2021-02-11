@@ -7,7 +7,7 @@
     "php": ">=5.6",
     "ext-curl": "*",
     "psr/log": ">=1.0",
-    "developersrede/erede-php": "3.0.0"
+    "developersrede/erede-php": "^5.1"
   },
   "authors": [
     {
